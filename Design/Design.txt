@@ -1,0 +1,65 @@
+Welcome Start
+
+|-------------------------------------------------------|
+|                                                       |
+|                 Welcome To Pass Guard                 |
+|    Features:                                          |
+|    -BCrypt credential encoding                        |
+|    -Random Password Generator                         |
+|                                                       |
+|                                                       |
+|                                                       |
+|-------------------------------------------------------|
+|                                                       |
+
+
+/*
+  If user creates a new user, they'll be redirected to this screen
+
+*/
+----------------MENU---------------
+1) Create New User
+2) Login
+
+
+
+/*
+To Login, Terminal will display
+
+*
+Please enter your username/email and password
+
+Username/Email : 
+Password: 
+
+If doesn't match, prompt user to enter again
+
+Invalid Credentials, Enter again
+
+
+
+
+
+
+Main Menu Options
+1) See all accounts
+2) Add a new account
+
+
+
+
+
+Entities
+
+User
+
+string username
+string email
+string password
+
+
+
+
+
+
+
